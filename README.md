@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atinsinghal97" alt="atinsinghal97" /></a> </p>
 
-<p align="center"> <i> [Note: All the contributions using this account are my personal contributions, worked on during my spare time and NOT on behalf of my employer, unless clearly stated otherwise- eg. clearly stated in the readme or the commit is pushed using my work email address.] </i> </p>
+<p align="center"> <i> [Note: All the contributions using this account are my personal contributions, worked on during my spare time and NOT on behalf of my employer, unless clearly stated otherwise- eg. stated in the readme or the commit is pushed using my work email address.] </i> </p>
 
 - 🔭 I’m currently working as **a DevOps Engineer at SAP Fieldglass**
 
